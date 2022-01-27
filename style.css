@@ -1,0 +1,52 @@
+.img-fluid{
+    height: 500px;
+    width: 500px;
+}
+
+.blockqoute{
+    font-size: 25px;
+    font-weight: bold;
+    font-family: courier;
+}
+
+.text-center#intro{
+    font-size: 50px;
+}
+
+#tribute-info{
+    font-size: 18px;
+}
+
+.text-center#education{
+    font-size: 50px;
+}
+
+#education-info{
+    font-size: 18px;
+}
+
+#tribute-link{
+    color: white;
+}
+
+.text-center#novels{
+    font-size: 50px;
+}
+
+.card-body{
+    background-color: #9ce0e8;
+    text-align: center;
+    font-family: courier;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.card{
+    display: flex;
+    justify-content: center;
+}
+
+.text-center#FAQs{
+    font-size: 50px;
+    padding-bottom: 10px;
+}
